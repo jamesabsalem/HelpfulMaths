@@ -1,0 +1,11 @@
+F:\Tutorial\Contest\HelpfulMaths\HelpfulMaths\bin\Debug\netcoreapp2.1\HelpfulMaths.deps.json
+F:\Tutorial\Contest\HelpfulMaths\HelpfulMaths\bin\Debug\netcoreapp2.1\HelpfulMaths.runtimeconfig.json
+F:\Tutorial\Contest\HelpfulMaths\HelpfulMaths\bin\Debug\netcoreapp2.1\HelpfulMaths.runtimeconfig.dev.json
+F:\Tutorial\Contest\HelpfulMaths\HelpfulMaths\bin\Debug\netcoreapp2.1\HelpfulMaths.dll
+F:\Tutorial\Contest\HelpfulMaths\HelpfulMaths\bin\Debug\netcoreapp2.1\HelpfulMaths.pdb
+F:\Tutorial\Contest\HelpfulMaths\HelpfulMaths\obj\Debug\netcoreapp2.1\HelpfulMaths.csprojAssemblyReference.cache
+F:\Tutorial\Contest\HelpfulMaths\HelpfulMaths\obj\Debug\netcoreapp2.1\HelpfulMaths.csproj.CoreCompileInputs.cache
+F:\Tutorial\Contest\HelpfulMaths\HelpfulMaths\obj\Debug\netcoreapp2.1\HelpfulMaths.AssemblyInfoInputs.cache
+F:\Tutorial\Contest\HelpfulMaths\HelpfulMaths\obj\Debug\netcoreapp2.1\HelpfulMaths.AssemblyInfo.cs
+F:\Tutorial\Contest\HelpfulMaths\HelpfulMaths\obj\Debug\netcoreapp2.1\HelpfulMaths.dll
+F:\Tutorial\Contest\HelpfulMaths\HelpfulMaths\obj\Debug\netcoreapp2.1\HelpfulMaths.pdb
